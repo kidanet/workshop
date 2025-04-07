@@ -196,7 +196,6 @@ due to binary name differences.
 
 When you have all the necessary dependencies, you can go ahead and grab the latest tagged release tarball from several places. You can get it via the kernel.org site, at [https://www.kernel.org/pub/software/scm/git](https://www.kernel.org/pub/software/scm/git), or the mirror on the GitHub website, at [https://github.com/git/git/tags](https://github.com/git/git/tags). It’s generally a little clearer what the latest version is on the GitHub page, but the kernel.org page also has release signatures if you want to verify your download.
 
-_ #BMt
 Then, compile and install:
 
 ```sh
